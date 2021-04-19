@@ -1,4 +1,4 @@
-# omniadev
+# Nuxt-Marketplace
 
 > An Epic Decentralized NFT Marketplace
 
